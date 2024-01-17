@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gggrain.github.io/ko-kr/blog</id>
     <title>Simple Dialogue System Blog</title>
-    <updated>2023-12-25T07:10:16.661Z</updated>
+    <updated>2024-01-16T06:48:31.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gggrain.github.io/ko-kr/blog"/>
     <subtitle>Simple Dialogue System Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://gggrain.github.io/ko-kr/blog/welcome</id>
         <link href="https://gggrain.github.io/ko-kr/blog/welcome"/>
-        <updated>2023-12-25T07:10:16.661Z</updated>
+        <updated>2024-01-16T06:48:31.198Z</updated>
         <summary type="html"><![CDATA[Welcome to the Simple Dialogue System's official website]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-the-simple-dialogue-systems-official-website">Welcome to the Simple Dialogue System's official website<a href="https://gggrain.github.io/ko-kr/blog/welcome#welcome-to-the-simple-dialogue-systems-official-website" class="hash-link" aria-label="Welcome to the Simple Dialogue System's official website에 대한 직접 링크" title="Welcome to the Simple Dialogue System's official website에 대한 직접 링크">​</a></h3>
 <p>You can see the whole things of the SDS in this website.</p>
