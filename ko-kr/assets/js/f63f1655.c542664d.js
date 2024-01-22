@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4131],{7454:e=>{e.exports=JSON.parse('[{"label":"welcome","permalink":"/ko-kr/blog/tags/welcome","count":1},{"label":"SDS","permalink":"/ko-kr/blog/tags/sds","count":1},{"label":"Simple Dialogue System","permalink":"/ko-kr/blog/tags/simple-dialogue-system","count":1}]')}}]);
