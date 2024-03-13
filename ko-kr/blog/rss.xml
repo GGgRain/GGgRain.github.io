@@ -4,10 +4,50 @@
         <title>Simple Dialogue System Blog</title>
         <link>https://gggrain.github.io/ko-kr/blog</link>
         <description>Simple Dialogue System Blog</description>
-        <lastBuildDate>Wed, 17 Jan 2024 17:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 06:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko-kr</language>
+        <item>
+            <title><![CDATA[future-of-the-plugin]]></title>
+            <link>https://gggrain.github.io/ko-kr/blog/future-of-the-plugin</link>
+            <guid>https://gggrain.github.io/ko-kr/blog/future-of-the-plugin</guid>
+            <pubDate>Wed, 13 Mar 2024 06:32:11 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="---slug-future-of-the-plugintitle-future-of-the-pluginauthors-devgraintags-sds-simple-dialogue-system">**---
+slug: Future of the Plugin
+title: Future of the Plugin
+authors: [DevGrain]
+tags: [SDS, Simple Dialogue System]<a href="https://gggrain.github.io/ko-kr/blog/future-of-the-plugin#---slug-future-of-the-plugintitle-future-of-the-pluginauthors-devgraintags-sds-simple-dialogue-system" class="hash-link" aria-label="**---
+slug: Future of the Plugin
+title: Future of the Plugin
+authors: [DevGrain]
+tags: [SDS, Simple Dialogue System]에 대한 직접 링크" title="**---
+slug: Future of the Plugin
+title: Future of the Plugin
+authors: [DevGrain]
+tags: [SDS, Simple Dialogue System]에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="we-are-working-on-something-much-bigger-than-the-current-version-of-sds">We are working on something much bigger than the current version of SDS.<a href="https://gggrain.github.io/ko-kr/blog/future-of-the-plugin#we-are-working-on-something-much-bigger-than-the-current-version-of-sds" class="hash-link" aria-label="We are working on something much bigger than the current version of SDS.에 대한 직접 링크" title="We are working on something much bigger than the current version of SDS.에 대한 직접 링크">​</a></h2>
+<p>We spent 2 years developing the SDS and we always wanted to make SDS something more than a dialogue plugin because we saw the inherit potential of the system and its possible application on game-making scene.</p>
+<p>But this is something that can not be done in current code base. It's because we focused on the development of new features instead of refactoring the code due to the limited time on the development.</p>
+<p><strong>So we decided to work on SDS2.</strong></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-will-the-sds2-be-look-like">How will the SDS2 be look like?<a href="https://gggrain.github.io/ko-kr/blog/future-of-the-plugin#how-will-the-sds2-be-look-like" class="hash-link" aria-label="How will the SDS2 be look like?에 대한 직접 링크" title="How will the SDS2 be look like?에 대한 직접 링크">​</a></h3>
+<p>We are aiming to make SDS2 as a StoryGraph system.</p>
+<p>You will be able to make any dialogue, or cutscene productions with the SDS2, beyond just a mere text-based dialogue.</p>
+<p>SDS2 will completely support multiplayer games and replicated dialogues.</p>
+<p>SDS2 will be reinforced with a ton of better editing features. Every stuff and Every property can be accessible and duplicate-able in the graph side so you don't need to mess around the detail panel.</p>
+<p>SDS2 will have its own text animation system that is powered by our new slate animation module, <strong>Volt</strong>. Volt library will also be included in the SDS2 to provide much more convincing editor visual and runtime animations.</p>
+<p>We can not the all the stuff by right now, but there will be a lot of changes on the system, and it will be something that you've never seen before from elsewhere.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="should-i-buy-sds2-again">Should I buy SDS2 again?<a href="https://gggrain.github.io/ko-kr/blog/future-of-the-plugin#should-i-buy-sds2-again" class="hash-link" aria-label="Should I buy SDS2 again?에 대한 직접 링크" title="Should I buy SDS2 again?에 대한 직접 링크">​</a></h3>
+<p>No, Since the SDS1 will be updated to the SDS2, the users of the SDS1 don't need to buy SDS again.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="when-will-it-be-released">When will it be released?<a href="https://gggrain.github.io/ko-kr/blog/future-of-the-plugin#when-will-it-be-released" class="hash-link" aria-label="When will it be released?에 대한 직접 링크" title="When will it be released?에 대한 직접 링크">​</a></h3>
+<p>There is nothing I can be sure about it, but it will take at least 3~5 months to finish.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="future-of-sds1">Future of SDS1<a href="https://gggrain.github.io/ko-kr/blog/future-of-the-plugin#future-of-sds1" class="hash-link" aria-label="Future of SDS1에 대한 직접 링크" title="Future of SDS1에 대한 직접 링크">​</a></h2>
+<p>By the 1.16.4 update, we already implemented everything we had in mind for the SDS.</p>
+<p>We will keep active in providing patch versions for the LTS version (1.16.x) for SDS1.</p>
+<hr>
+<p>We will actively share the news of SDS2 here. If you have any questions related to the product, please contact me via <strong><a href="mailto:devgrain13@gmail.com" target="_blank" rel="noopener noreferrer">devgrain13@gmail.com</a></strong></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://gggrain.github.io/ko-kr/blog/welcome</link>
