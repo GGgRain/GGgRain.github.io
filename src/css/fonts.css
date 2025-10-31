@@ -1,0 +1,57 @@
+/**
+Text fonts
+**/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@font-face {
+  font-family: Roboto sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap)
+      format('tff'),
+    url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap)
+      format('tff');
+}
+
+
+h1 {
+  font-family: Roboto sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  padding: 10px 0 0 0;
+}
+
+h2 {
+  font-family: Roboto sans-serif;
+  font-weight: bold;
+  font-size: 42px;
+  padding: 10px 0 0 0;
+}
+
+h3 {
+  font-family: Roboto sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  padding: 10px 0 0 0;
+}
+
+h4 {
+  font-family: Roboto sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+
+h5 {
+  font-family: Roboto sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+h6 {
+  font-family: Roboto sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+
+}

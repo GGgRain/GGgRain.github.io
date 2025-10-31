@@ -1,0 +1,90 @@
+
+@media screen and (max-width: 42em) {
+  .Container {
+    padding: 1rem;
+    scale: 75%;
+  }
+}
+
+
+.featureSvg {
+  height: 300px;
+  width: 300px;
+}
+
+.GapDiv {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 4px;
+}
+
+.Container {
+  scale: 90%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
+.Container_Col {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+  margin: 4px;
+}
+
+.Container_Row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.CharacterSymbol {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 150px;
+}
+
+.Header {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 48px;
+}
+.Header_Emphas {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  color: #2f8da5;
+  font-size: 52px;
+}
+
+.Tagline {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.Tagline_right {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-align: right;
+}
+
+.Tagline_center {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.ImgColor {
+  color: hsla(0, 0%, 100%, 0.49);
+}

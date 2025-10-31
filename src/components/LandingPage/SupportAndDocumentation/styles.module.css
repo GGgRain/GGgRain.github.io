@@ -1,0 +1,10 @@
+.features {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 10%;
+}
+
+.features__header {
+  font-family: 'Metropolis Bold';
+  font-size: 30px;
+}

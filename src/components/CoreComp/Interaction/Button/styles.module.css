@@ -1,0 +1,13 @@
+.ButtonBox {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.GapDiv {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
