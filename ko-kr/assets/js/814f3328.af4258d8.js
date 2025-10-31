@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to my site!","permalink":"/ko-kr/blog/Welcome to my site!","unlisted":false,"date":"2025-10-31T05:05:08.000Z"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6095],{4462:s=>{s.exports=JSON.parse('{"label":"SDS","permalink":"/ko-kr/blog/tags/sds","allTagsPath":"/ko-kr/blog/tags","count":1,"unlisted":false}')}}]);
