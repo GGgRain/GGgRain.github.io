@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5804],{7670:e=>{e.exports=JSON.parse('{"label":"welcome","permalink":"/ko-kr/blog/tags/welcome","allTagsPath":"/ko-kr/blog/tags","count":1,"unlisted":false}')}}]);
