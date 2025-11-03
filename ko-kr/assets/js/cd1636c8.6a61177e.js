@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[194],{3844:e=>{e.exports=JSON.parse('{"tags":[{"label":"welcome","permalink":"/ko-kr/blog/tags/welcome","count":1}]}')}}]);
